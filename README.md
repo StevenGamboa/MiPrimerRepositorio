@@ -1,2 +1,2 @@
-# fizzbuzz-CPP
+# MiPrimerRepositorio
 Mi primer repositorio
